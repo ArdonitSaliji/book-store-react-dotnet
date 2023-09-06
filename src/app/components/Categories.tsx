@@ -1,6 +1,6 @@
 const Categories = () => {
   return (
-    <ul className='category-ul py-5 flex justify-center space-x-8 '>
+    <ul className='category-ul py-5 flex flex-wrap justify-center space-x-8 '>
       <li>Detective</li>
       <li>Love</li>
       <li>Novel</li>
